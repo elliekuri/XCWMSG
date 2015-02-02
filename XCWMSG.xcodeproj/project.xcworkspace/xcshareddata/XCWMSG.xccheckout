@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CDCB2B91-14F9-46BF-AA3E-71147F0E08D5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XCWMSG</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CCA965449DF2B541F1091A63B595787FACB88647</key>
+		<string>192.168.1.66:/data/git/xieche_ios.git</string>
+		<key>b6f64f10-aded-7e4e-ab0f-48711ba41992++6450</key>
+		<string>http://192.168.1.65:81/svn/BookStore/trunk/Classes/ASIHTTP</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XCWMSGV10/XCWMSG.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CCA965449DF2B541F1091A63B595787FACB88647</key>
+		<string>../../..</string>
+		<key>b6f64f10-aded-7e4e-ab0f-48711ba41992++6450</key>
+		<string>../../..XCWMSGV10/XCWMSG/ASIHttpRequest/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>b6f64f10-aded-7e4e-ab0f-48711ba41992++6450</key>
+		<string>http://192.168.1.65:81/svn/BookStore</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>192.168.1.66:/data/git/xieche_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CCA965449DF2B541F1091A63B595787FACB88647</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>b6f64f10-aded-7e4e-ab0f-48711ba41992++6450</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ASIHttpRequest</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CCA965449DF2B541F1091A63B595787FACB88647</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xieche_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

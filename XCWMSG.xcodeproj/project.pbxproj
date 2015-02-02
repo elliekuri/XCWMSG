@@ -1,0 +1,1 @@
+		0F8E8B761A6F486300826CC5 /* ASIInputStream.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F8E8B6A1A6F486300826CC5 /* ASIInputStream.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
